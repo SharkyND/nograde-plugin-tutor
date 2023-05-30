@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 setup(  
     name="tutor-nogrades",  
     version="0.1.0",  
-    url="https://github.com/yourusername/tutor-nogrades",  
-    author="Your Name",  
+    url="https://github.com/SharkyND/nograde-plugin-tutor",  
+    author="Sharjy",  
     author_email="your.email@example.com",  
     description="A Tutor plugin to disable grading",  
     packages=find_packages(),  
