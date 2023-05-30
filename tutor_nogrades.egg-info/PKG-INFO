@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: tutor-nogrades
+Version: 0.1.0
+Summary: A Tutor plugin to disable grading
+Home-page: https://github.com/yourusername/tutor-nogrades
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Programming Language :: Python :: 3
